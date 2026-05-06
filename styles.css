@@ -2,7 +2,7 @@ h1 {
     color :blue;
 }
 p {
-    color: red;
+    color: blueviolet;
 }
 .test {
     color: green;
@@ -13,3 +13,4 @@ p {
     text-align: center;
 }
 * {list-style-position: inside}
+body {background-color: #ff0560;}
